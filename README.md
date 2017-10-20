@@ -4,22 +4,22 @@
 Load File Contents Onto Display
 ![alt text](https://github.com/christianjchoi/LogViewer/blob/master/LogViewer/Screenshots/Screenshot%20from%202017-08-22%2014-51-37.png)
 
-Highlight All Lines Containing "the"
+Highlight All Lines Containing "die"
 ![alt_text](https://github.com/christianjchoi/LogViewer/blob/master/LogViewer/Screenshots/Screenshot%20from%202017-08-22%2014-52-10.png)
 
 Open Up Configuration Panel
 ![alt_text](https://github.com/christianjchoi/LogViewer/blob/master/LogViewer/Screenshots/Screenshot%20from%202017-08-23%2013-39-30.png)
 
-Hide Highlighting for "the"
+Hide Highlighting for "die"
 ![alt_text](https://github.com/christianjchoi/LogViewer/blob/master/LogViewer/Screenshots/Screenshot%20from%202017-08-23%2013-39-39.png)
 
 Open Up Highlight Color Change Panel
 ![alt_text](https://github.com/christianjchoi/LogViewer/blob/master/LogViewer/Screenshots/Screenshot%20from%202017-08-23%2013-39-52.png)
 
-Change "the" Highlights to Different Color
+Change "die" Highlights to Different Color
 ![alt_text](https://github.com/christianjchoi/LogViewer/blob/master/LogViewer/Screenshots/Screenshot%20from%202017-08-23%2013-40-03.png)
 
-Filter Out Lines Containing "the"
+Filter Out Lines Containing "die"
 ![alt_text](https://github.com/christianjchoi/LogViewer/blob/master/LogViewer/Screenshots/Screenshot%20from%202017-08-23%2013-40-11.png)
 
 Load Highlights From a File
